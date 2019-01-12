@@ -1,0 +1,11 @@
+{
+  "name": "vue-three-cube",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/mjwise-hyx/vue-three-cube.git",
+  "author": "heyx <1064042411>",
+  "license": "MIT",
+  "dependencies": {
+    "vue": "^2.5.22"
+  }
+}
